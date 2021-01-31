@@ -5,7 +5,7 @@ Seja bem vindo ao projeto base do AluraQuiz!!! Passos fundamentais:
 - Siga as instruções das aulas e conteúdo extra da Imersão React Next.js
 - Faça o deploy na Vercel e compartilhe
 
-![Capa do Projeto](/_docs/aluraquiz-base.png)
+![Capa do Projeto](/_docs/aluraquiz-base.jpg)
 
 ## Como colocar o meu projeto na vitrine da imersão?
 
