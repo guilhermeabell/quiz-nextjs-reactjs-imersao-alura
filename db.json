@@ -49,6 +49,7 @@
   ],
   "theme": {
     "colors": {
+      "corner": "#03A696",
       "primary": "#222222",
       "secondary": "#e89c3f",
       "mainBg": "#213f4e",
