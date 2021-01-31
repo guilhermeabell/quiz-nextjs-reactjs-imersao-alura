@@ -1,45 +1,45 @@
 {
-  "bg": "https://www.hitalent.co/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmJDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1452099b706ad7d079f7a3a4dd5d702ebeeae45f/HiTalent.png",
-  "title": "Quiz JavaScript #AluraQuiz",
-  "description": "Um quiz rápido sobre o mundo do JavaScript",
+  "bg": "https://images7.alphacoders.com/103/1031004.jpg",
+  "title": "Quiz Arqueiro Verde #AluraQuiz",
+  "description": "Um quiz rápido sobre o Arqueiro Verde",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-      "title": "Qual a diferença entre = , == e === ?",
+      "image": "https://media.tenor.com/images/77a2ebcec8c14c165c6e0332a2948659/tenor.gif",
+      "title": "Qual é o nome do Arqueiro Verde?",
       "description": "Pergunta fácil em!",
       "answer": 1,
       "alternatives": [
-        "São a mesma coisa",
-        "O = significa atribuição de valor. Já == verifica a igualdade do valor, enquanto === verifica valor e tipo de variável."
+        "Barry Queen",
+        "Oliver Queen."
       ]
     },
     {
-      "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
-      "title": "Que tipos de dados são suportados em JavaScript?",
+      "image": "https://media.tenor.com/images/596d5a21c088a392700210f2ba84b4be/tenor.gif",
+      "title": "Qual o nome da Ilha em que Oliver ficou isolado?",
       "description": "E agora? Você sabe?",
       "answer": 0,
       "alternatives": [
-        "Number, String, Undefined, Null e Bool.",
-        "Int, String, Undefined, Null e Bool."
+        " Lee on you (Purgatório)",
+        "Lee yan you (Purgatório)"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a diferença de window e global?",
+      "image": "https://media1.tenor.com/images/4a5e170a5af5c3b7409b0add50bdde3f/tenor.gif?itemid=5952905",
+      "title": "Qual inimigo do Arqueiro enfiou uma espada em seu peito?",
       "answer": 1,
       "alternatives": [
-        "São a mesma coisa",
-        "window é o escopo global no browser, e global no node"
+        "Exterminador",
+        "Ras al Ghul"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a forma antiga de trabalhar com AJAX na Web?",
+      "image": "https://media1.tenor.com/images/29c482d30ea8dc9598413beef84d4704/tenor.gif?itemid=5063106",
+      "title": "Qual o nome do melhor amigo de Oliver que namorou um tempo com Laurel?",
       "answer": 1,
       "alternatives": [
-        "JSONHttpRequest",
-        "XMLHttpRequest",
-        "fetch"
+        "Diggle",
+        "Tommy Merlyn",
+        "Roy"
       ]
     }
   ],
